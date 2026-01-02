@@ -1,0 +1,1 @@
+const service_akfc = <T>(args: T): T => { return args; };
